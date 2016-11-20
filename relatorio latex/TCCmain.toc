@@ -1,0 +1,28 @@
+\select@language {brazil}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{21}
+\contentsline {section}{\numberline {1.1}Objetivos}{21}
+\contentsline {section}{\numberline {1.2}Organiza\c c\~ao do trabalho}{21}
+\contentsline {section}{\numberline {1.3}A empresa}{21}
+\contentsline {subsection}{\numberline {1.3.1}Miss\~ao}{21}
+\contentsline {subsection}{\numberline {1.3.2}Campo de atua\c c\~ao}{22}
+\contentsline {subsection}{\numberline {1.3.3}O projeto}{22}
+\contentsline {subsection}{\numberline {1.3.4}Estrutura organizacional}{22}
+\contentsline {subsection}{\numberline {1.3.5}Metodologia de desenvolvimento}{22}
+\contentsline {chapter}{\numberline {2}Atividades Realizadas}{23}
+\contentsline {section}{\numberline {2.1}Apresenta\c c\~ao da empresa}{23}
+\contentsline {subsection}{\numberline {2.1.1}Reuni\~oes de Apresenta\c c\~ao}{23}
+\contentsline {subsection}{\numberline {2.1.2}Almo\c co de boas vindas}{23}
+\contentsline {section}{\numberline {2.2}Configura\c c\~ao do ambiente}{23}
+\contentsline {section}{\numberline {2.3}Estudo do sistema}{24}
+\contentsline {section}{\numberline {2.4}Cria\c c\~ao de c\'odigo}{24}
+\contentsline {section}{\numberline {2.5}Reuni\~oes}{24}
+\contentsline {section}{\numberline {2.6}Dificuldades}{25}
+\contentsline {section}{\numberline {2.7}Rela\c c\~ao com o curso}{25}
+\contentsline {section}{\numberline {2.8}Calend\'ario}{25}
+\contentsline {chapter}{\numberline {3}Conclus\~ao}{27}
+\contentsline {section}{\numberline {3.1}Limita\c c\~oes}{27}
+\contentsline {section}{\numberline {3.2}Acertos}{28}
+\contentsline {section}{\numberline {3.3}Opini\~ao de potenciais usu\'arios}{28}
+\contentsline {section}{\numberline {3.4}Disciplinas base}{29}
+\contentsline {section}{\numberline {3.5}Trabalhos futuros}{29}
+\contentsline {chapter}{Refer\^encias}{31}
